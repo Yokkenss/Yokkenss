@@ -1,10 +1,5 @@
 <h1 align="center"></h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yokkenss&color=brightgreen" alt="Profile views"/>
-  <img src="https://img.shields.io/github/stars/yokkenss?affiliations=OWNER&style=social" alt="GitHub stars"/>
-</p>
-
 ---
 
 ## GitHub Stats
