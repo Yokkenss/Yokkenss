@@ -1,3 +1,11 @@
+<h1 align="center">LOOKING FOR A YEAR-LONG INTERNSHIP</h1>
+
+<h2 align="center">
+  <strong>Backend or Systems Engineering</strong><br />
+  <a href="mailto:yokkens52@gmail.com">yokkens52@gmail.com</a>
+</h2>
+
+
 <a href="https://github.com/yokkenss"><img width="100%" src="https://git-stats-rust.vercel.app/api/languages?username=yokkenss&amp;theme=dark&amp;langs_count=9&amp;hide=TypeScript%2CHTML%2CMakefile%2CShell" alt="Most used languages" /></a>
 
 ### Featured projects
