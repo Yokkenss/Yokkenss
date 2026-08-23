@@ -11,4 +11,4 @@
 
 <h2>Open to a year-long software engineering internship in backend or systems engineering.</h2>
 
-<p><strong>Contact</strong> · <a href="mailto:yokkens52@gmail.com">yokkens52@gmail.com</a></p>
+<h2><strong>Contact</strong>:<a href="mailto:yokkens52@gmail.com">yokkens52@gmail.com</a></h2>
