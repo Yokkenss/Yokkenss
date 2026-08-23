@@ -7,3 +7,8 @@
 ### Tech stack
 
 <a href="https://github.com/yokkenss"><img width="100%" src="https://git-stats-rust.vercel.app/api/languages?username=yokkenss&amp;theme=dark&amp;section=stack&amp;stack=C%2CAssembly%2CLinux%2Cx86-64" alt="Tech stack" /></a>
+
+### Currently
+
+Seeking a year-long software engineering internship in backend or systems engineering
+Contact: yokkens52@gmail.com
