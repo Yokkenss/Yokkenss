@@ -10,7 +10,7 @@
 
 <h1 align="center">LOOKING FOR A YEAR-LONG INTERNSHIP</h1>
 
-<p align="center">
+<h2 align="center">
   <strong>Backend or Systems Engineering</strong><br />
   <a href="mailto:yokkens52@gmail.com">yokkens52@gmail.com</a>
-</p>
+</h2>
