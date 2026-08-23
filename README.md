@@ -6,4 +6,4 @@
 
 ### Tech stack
 
-<a href="https://github.com/yokkenss"><img width="100%" src="https://git-stats-rust.vercel.app/api/languages?username=yokkenss&amp;theme=dark&amp;section=stack&amp;stack=C%2CAssembly%2CLinux%2Cx86-64%2CGit" alt="Tech stack" /></a>
+<a href="https://github.com/yokkenss"><img width="100%" src="https://git-stats-rust.vercel.app/api/languages?username=yokkenss&amp;theme=dark&amp;section=stack&amp;stack=C%2CAssembly%2CLinux%2Cx86-64" alt="Tech stack" /></a>
