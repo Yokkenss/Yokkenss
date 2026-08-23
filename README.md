@@ -1,1 +1,1 @@
-[![Languages](https://git-stats-rust.vercel.app/api/languages?username=yokkenss&theme=dark&langs_count=9)](https://github.com/yokkenss)
+<a href="https://github.com/yokkenss"><img width="100%" src="https://git-stats-rust.vercel.app/api/languages?username=yokkenss&amp;theme=dark&amp;langs_count=9&amp;hide=TypeScript%2CHTML%2CMakefile%2CShell" alt="Most used languages" /></a>
