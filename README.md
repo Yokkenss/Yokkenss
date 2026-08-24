@@ -19,10 +19,3 @@
 ### Tech stack
 
 <a href="https://github.com/yokkenss"><img width="100%" src="https://git-stats-rust.vercel.app/api/languages?username=yokkenss&amp;theme=dark&amp;section=stack&amp;stack=C%2CAssembly%2CLinux%2Cx86-64" alt="Tech stack" /></a>
-
-<h1 align="center">LOOKING FOR A YEAR-LONG INTERNSHIP</h1>
-
-<h2 align="center">
-  <strong>Backend or Systems Engineering</strong><br />
-  <a href="mailto:yokkens52@gmail.com">yokkens52@gmail.com</a>
-</h2>
