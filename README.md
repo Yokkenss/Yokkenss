@@ -1,9 +1,10 @@
 <h2 align="center">
   <a href="mailto:yokkens52@gmail.com">yokkens52@gmail.com</a> <br />
-  <strong>Backend or Systems Engineering</strong>
+  <strong>Frontend/Backend/Systems/Full-stack</strong>
 </h2>
 
 <h1 align="center">LOOKING FOR A YEAR-LONG INTERNSHIP</h1>
+<h2 align="center">I enjoy low-level engineering, but I'm equally happy building web applications and production software</h2>
 
 
 <a href="https://github.com/yokkenss"><img width="100%" src="https://git-stats-rust.vercel.app/api/languages?username=yokkenss&amp;theme=dark&amp;langs_count=6&amp;include=C%2CJavaScript%2CShell%2CAssembly%2CGo%2CJava&amp;v=8" alt="Most used languages" /></a>
