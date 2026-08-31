@@ -1,5 +1,5 @@
 <h2 align="center">
-  <a href="mailto:yokkens52@gmail.com">hello@yokkens.com</a> <br />
+  <a href="mailto:hello@yokkens.com">hello@yokkens.com</a> <br />
   <strong>Frontend/Backend/Systems/Full-stack</strong>
 </h2>
 <h2 align="center">I enjoy low-level engineering, but I'm equally happy building web applications and production software</h2>
