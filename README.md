@@ -1,8 +1,8 @@
 <h2 align="center">
   <a href="mailto:hello@yokkens.com">hello@yokkens.com</a> <br />
-  <strong>/Backend/Systems/</strong>
+  <strong>/Design/Creative Dev/</strong>
 </h2>
-<h2 align="center">I enjoy low-level engineering, but I'm equally happy building web applications and production software</h2>
+<h2 align="center">I enjoy design, but I'm equally happy building web applications and production software</h2>
 
 ### Selected projects
 
